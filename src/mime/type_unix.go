@@ -18,6 +18,7 @@ func init() {
 
 var typeFiles = []string{
 	"/etc/mime.types",
+	"/opt/local/etc/apache2/mime.types",
 	"/etc/apache2/mime.types",
 	"/etc/apache/mime.types",
 }
